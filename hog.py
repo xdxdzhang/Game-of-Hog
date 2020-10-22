@@ -36,8 +36,7 @@ def roll_dice(num_rolls, dice=six_sided):
     else:
         return total
     # END PROBLEM 1
-
-
+    
 def free_bacon(score):
     """Return the points scored from rolling 0 dice (Free Bacon).
 
